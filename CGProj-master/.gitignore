@@ -1,0 +1,19 @@
+################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/OurCraft.VC.VC.opendb
+
+.idea/vcs.xml
+.idea/workspace.xml
+OurCraft.VC.db
+Debug
+OurCraft/Debug
+cmake-build-debug
+OurCraft.sln
+OurCraft.vcxproj
+OurCraft.vcxproj.filters
+OurCraft/util.h
+.vs
+OurCraft.vcxproj.user
+
