@@ -1,0 +1,2 @@
+# OurMineCraft
+这是我用openGL库在VS上写的一个仿MineCraft游戏，画面清晰，运行流畅，游戏的丰富程度有待改进
